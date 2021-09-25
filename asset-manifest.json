@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ema-john_react/static/css/main.733f85cd.chunk.css",
-    "main.js": "/ema-john_react/static/js/main.3ab563ad.chunk.js",
-    "main.js.map": "/ema-john_react/static/js/main.3ab563ad.chunk.js.map",
-    "runtime-main.js": "/ema-john_react/static/js/runtime-main.b8fcdbbd.js",
-    "runtime-main.js.map": "/ema-john_react/static/js/runtime-main.b8fcdbbd.js.map",
-    "static/js/2.45aeb56a.chunk.js": "/ema-john_react/static/js/2.45aeb56a.chunk.js",
-    "static/js/2.45aeb56a.chunk.js.map": "/ema-john_react/static/js/2.45aeb56a.chunk.js.map",
-    "static/js/3.f5cfd8a1.chunk.js": "/ema-john_react/static/js/3.f5cfd8a1.chunk.js",
-    "static/js/3.f5cfd8a1.chunk.js.map": "/ema-john_react/static/js/3.f5cfd8a1.chunk.js.map",
+    "main.css": "/ema-john_react/static/css/main.253c9984.chunk.css",
+    "main.js": "/ema-john_react/static/js/main.6f19a139.chunk.js",
+    "main.js.map": "/ema-john_react/static/js/main.6f19a139.chunk.js.map",
+    "runtime-main.js": "/ema-john_react/static/js/runtime-main.95248035.js",
+    "runtime-main.js.map": "/ema-john_react/static/js/runtime-main.95248035.js.map",
+    "static/js/2.4e1c0364.chunk.js": "/ema-john_react/static/js/2.4e1c0364.chunk.js",
+    "static/js/2.4e1c0364.chunk.js.map": "/ema-john_react/static/js/2.4e1c0364.chunk.js.map",
+    "static/js/3.2bba6fd2.chunk.js": "/ema-john_react/static/js/3.2bba6fd2.chunk.js",
+    "static/js/3.2bba6fd2.chunk.js.map": "/ema-john_react/static/js/3.2bba6fd2.chunk.js.map",
     "index.html": "/ema-john_react/index.html",
-    "static/css/main.733f85cd.chunk.css.map": "/ema-john_react/static/css/main.733f85cd.chunk.css.map",
-    "static/js/2.45aeb56a.chunk.js.LICENSE.txt": "/ema-john_react/static/js/2.45aeb56a.chunk.js.LICENSE.txt",
+    "static/css/main.253c9984.chunk.css.map": "/ema-john_react/static/css/main.253c9984.chunk.css.map",
+    "static/js/2.4e1c0364.chunk.js.LICENSE.txt": "/ema-john_react/static/js/2.4e1c0364.chunk.js.LICENSE.txt",
     "static/media/logo.0dd9a510.png": "/ema-john_react/static/media/logo.0dd9a510.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8fcdbbd.js",
-    "static/js/2.45aeb56a.chunk.js",
-    "static/css/main.733f85cd.chunk.css",
-    "static/js/main.3ab563ad.chunk.js"
+    "static/js/runtime-main.95248035.js",
+    "static/js/2.4e1c0364.chunk.js",
+    "static/css/main.253c9984.chunk.css",
+    "static/js/main.6f19a139.chunk.js"
   ]
 }
